@@ -8,6 +8,7 @@ signed main()
     cin>>t;
     while(t--){
         cout<<"jaat";
+        int n;
     }
     return 0;
 }
