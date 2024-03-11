@@ -7,7 +7,7 @@ signed main()
     int t;
     cin>>t;
     while(t--){
-        
+        cout<<"jaat";
     }
     return 0;
 }
