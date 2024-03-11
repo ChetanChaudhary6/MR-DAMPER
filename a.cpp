@@ -4,10 +4,9 @@ using namespace std;
  
 signed main()
 {
-    int t;
-    cin>>t;
-    while(t--){
-        cout<<"jaat";
+    int a;
+    while(a--){
+        cout<<"jaat ji";
     }
     return 0;
 }
